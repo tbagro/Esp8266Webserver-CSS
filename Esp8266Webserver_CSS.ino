@@ -81,7 +81,7 @@ String buildWebsite() { //pagina home html
   webSite += ".grid-container2{display: grid;  grid-template-columns: auto auto ;   padding:2px;}";
   webSite += ".grid-item1 {padding: 1px; padding-left: 20%;   padding-right: 6%; }";
   webSite += ".grid-item2 {padding: 1px;  padding-right: 25%;}";
-  webSite += "h1 {text-align: center; font-size: 20px;    font-weight: bolder;   font-style: italic;  text-shadow: 1px 1px 2px rgba(0,0,0,0,5);}";
+  webSite += "h1 {text-align: center; font-size: 30px;    font-weight: bolder;   font-style: italic;  text-shadow: 1px 1px 2px rgba(0,0,0,0,5);}";
   webSite += "h3{font-size: 40px;  text-align: center;}";
   webSite += "h4{font-size: 40px;  text-align: center;}"; 
   webSite += "span{font-size: 35px; font-weight: bold;}";
